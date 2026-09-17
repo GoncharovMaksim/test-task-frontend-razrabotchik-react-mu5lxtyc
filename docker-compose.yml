@@ -1,0 +1,11 @@
+services:
+  max-chat:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: green_api_max_chat
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    environment:
+      - NODE_ENV=production
