@@ -4,7 +4,7 @@
 
 ## Live Demo
 Деплой проекта доступен по адресу:
-[https://test-task-frontend-razrabotchik-react-mu5lxtyc.vercel.app](https://test-task-frontend-razrabotchik-react-mu5lxtyc.vercel.app)
+[https://test-task-frontend-razrabotchik-rea.vercel.app](https://test-task-frontend-razrabotchik-rea.vercel.app)
 
 ---
 
